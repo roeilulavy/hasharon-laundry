@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hasharon-laundry/static/css/main.a92d7de5.css",
+    "main.js": "/hasharon-laundry/static/js/main.392ede5e.js",
+    "static/media/home-slider.jpg": "/hasharon-laundry/static/media/home-slider.14a507eab53c35cf414a.jpg",
+    "static/media/school.jpg": "/hasharon-laundry/static/media/school.3d9d096f08597e7866b4.jpg",
+    "static/media/hospital.jpg": "/hasharon-laundry/static/media/hospital.a0480b15e130251c7036.jpg",
+    "static/media/logo.png": "/hasharon-laundry/static/media/logo.526c7bed9a35da6554da.png",
+    "static/media/personal.jpg": "/hasharon-laundry/static/media/personal.2ff1b1f00ace89cb9104.jpg",
+    "static/media/timer.png": "/hasharon-laundry/static/media/timer.dda31662168a6496c467.png",
+    "static/media/medal.png": "/hasharon-laundry/static/media/medal.6f7d69887dbfa75b42a3.png",
+    "static/media/like.png": "/hasharon-laundry/static/media/like.dbaef08c591eacfe4079.png",
+    "static/media/repair.jpg": "/hasharon-laundry/static/media/repair.eb5a6bb1fb7b31a2bca4.jpg",
+    "index.html": "/hasharon-laundry/index.html",
+    "main.a92d7de5.css.map": "/hasharon-laundry/static/css/main.a92d7de5.css.map",
+    "main.392ede5e.js.map": "/hasharon-laundry/static/js/main.392ede5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92d7de5.css",
+    "static/js/main.392ede5e.js"
+  ]
+}
