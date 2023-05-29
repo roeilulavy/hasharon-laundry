@@ -265,9 +265,10 @@ function App() {
           </div>
           <iframe
             className="about__map"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d845.0524089810456!2d34.885056789960394!3d32.090619447436836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d366d20e982fb%3A0x3d25861001c3af99!2sBar%20Kochva%20St%208%2C%20Petah%20Tikva!5e0!3m2!1sen!2sil!4v1683043445547!5m2!1sen!2sil"
+            src="https://www.google.co.il/maps/embed?pb=!1m18!1m12!1m3!1d845.0524089810456!2d34.885056789960394!3d32.090619447436836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d366d20e982fb%3A0x3d25861001c3af99!2sBar%20Kochva%20St%208%2C%20Petah%20Tikva!5e0!3m2!1sil!2sen!4v1683043445547!5m2!1sil!2sen&hl=he"
             loading="lazy"
             title="location-map"
+            lang="he"
           ></iframe>
         </div>
       </section>
