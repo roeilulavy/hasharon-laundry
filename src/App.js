@@ -63,7 +63,7 @@ function App() {
         <title>מכבסת השרון</title>
         <meta
           name="description"
-          content="שירות השרון, מכבסת השרון, שירותי כביסה, כביסה בשירות עצמי"
+          content="שירות השרון, מכבסת השרון, שירותי כביסה, כביסה בשירות עצמי,פתח תקווה, מכבסה פתח תקווה, מכבסה"
         />
         <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
         <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
@@ -72,7 +72,7 @@ function App() {
         <meta itemprop="name" content="מכבסת השרון" />
         <meta
           itemprop="description"
-          content="שירות השרון, מכבסת השרון, שירותי כביסה, כביסה בשירות עצמי"
+          content="שירות השרון, מכבסת השרון, שירותי כביסה, כביסה בשירות עצמי,פתח תקווה, מכבסה פתח תקווה, מכבסה"
         />
         <meta itemprop="image" content="./logo512.png" />
 
@@ -82,7 +82,7 @@ function App() {
         <meta property="og:title" content="מכבסת השרון" />
         <meta
           property="og:description"
-          content="שירות השרון, מכבסת השרון, שירותי כביסה, כביסה בשירות עצמי"
+          content="שירות השרון, מכבסת השרון, שירותי כביסה, כביסה בשירות עצמי,פתח תקווה, מכבסה פתח תקווה, מכבסה"
         />
         <meta property="og:image" content="./logo512.png" />
       </Helmet>
