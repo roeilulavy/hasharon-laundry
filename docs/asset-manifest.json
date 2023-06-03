@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hasharon-laundry.co.il/static/css/main.160d1d4e.css",
+    "main.js": "/hasharon-laundry.co.il/static/js/main.a8ef5814.js",
+    "static/media/home-slider.jpg": "/hasharon-laundry.co.il/static/media/home-slider.14a507eab53c35cf414a.jpg",
+    "static/media/school.jpg": "/hasharon-laundry.co.il/static/media/school.3d9d096f08597e7866b4.jpg",
+    "static/media/hospital.jpg": "/hasharon-laundry.co.il/static/media/hospital.a0480b15e130251c7036.jpg",
+    "static/media/logo.png": "/hasharon-laundry.co.il/static/media/logo.526c7bed9a35da6554da.png",
+    "static/media/personal.jpg": "/hasharon-laundry.co.il/static/media/personal.2ff1b1f00ace89cb9104.jpg",
+    "static/media/timer.png": "/hasharon-laundry.co.il/static/media/timer.dda31662168a6496c467.png",
+    "static/media/medal.png": "/hasharon-laundry.co.il/static/media/medal.6f7d69887dbfa75b42a3.png",
+    "static/media/like.png": "/hasharon-laundry.co.il/static/media/like.dbaef08c591eacfe4079.png",
+    "static/media/repair.jpg": "/hasharon-laundry.co.il/static/media/repair.eb5a6bb1fb7b31a2bca4.jpg",
+    "index.html": "/hasharon-laundry.co.il/index.html",
+    "main.160d1d4e.css.map": "/hasharon-laundry.co.il/static/css/main.160d1d4e.css.map",
+    "main.a8ef5814.js.map": "/hasharon-laundry.co.il/static/js/main.a8ef5814.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.160d1d4e.css",
+    "static/js/main.a8ef5814.js"
+  ]
+}
